@@ -4,7 +4,7 @@ Full dataset and algorithm for<br>
 
 Ezequiel Alvarez, Daniela Obando, Sebastian Crespo, Enio Garcia, Nicolas Kreplak, Franco Marsico
 
-email: sequi@unsam.edu.ar
+email: sequi@unsam.edu.ar, fmarsico@mincyt.gob.ar
 
 ## Instructions
 
